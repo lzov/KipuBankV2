@@ -11,7 +11,13 @@
 
 ## 📋 Descripción
 
-**KipuBank V2** es la evolución del contrato bancario original, transformándolo en un sistema DeFi multi-token de nivel producción. Este proyecto forma parte del curso ETH Kipu (Talento Tech) y demuestra la aplicación de patrones avanzados de Solidity y arquitectura segura de contratos inteligentes.
+**KipuBank V2** es la segunda iteración del contrato bancario original, transformándolo en un sistema DeFi multi-token. Este proyecto forma parte del curso ETH Kipu (Talento Tech) y demuestra la aplicación de patrones avanzados de Solidity y arquitectura segura de contratos inteligentes.
+
+## Dirección del contrato desplegado
+
+- Testnet Sepolia: `0x57e900ff4c5e78333b1d4055365f79c4a69a5109`
+- Block explorer: [Ver contrato](https://sepolia.etherscan.io/address/0x57e900ff4c5e78333b1d4055365f79c4a69a5109)
+
 
 ### 🎯 Características principales
 
