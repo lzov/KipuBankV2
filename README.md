@@ -147,7 +147,7 @@ function withdraw(address token, uint256 amount) external {
 #
 ## 👨‍💻 Autor
 
-**Gabriel Liz Ovelar** - [@lzov](https://github.com/lzov)
+**Gabriel** - [@lzov](https://github.com/lzov)
 
 *Desarrollado para ETH Kipu (Talento Tech) - Cohorte Mañana*
 
